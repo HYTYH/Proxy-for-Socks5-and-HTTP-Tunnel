@@ -6,7 +6,7 @@ a local proxy server that support SOCKS5 protocol and HTTP tunnel dual protocol,
 ---
 
 ## 🖼Runtime Screenshot
-<img src="./data/GUI.png" alt="running" width="500" />
+<img src="./data/GUI.png" alt="running" width="300" />
 
 ---
 
